@@ -1,0 +1,16 @@
+{
+    CFBundleExecutable = "Maulencer";
+    CFBundleIconFile = icon.png;
+    CFBundleIdentifier = "com.AndyIbanez.Maulencer";
+    CFBundleInfoDictionaryVersion = 6.0;
+    CFBundlePackageType = APPL;
+    CFBundleSignature = "????";
+    CFBundleSupportedPlatforms = (
+	iPhoneOS
+    );
+    CFBundleVersion = 1.0;
+    DTPlatformName = iphoneos;
+    DTSDKName = iphoneos3.0;
+    LSRequiresIPhoneOS = 1;
+    MinimumOSVersion = 3.0;
+}

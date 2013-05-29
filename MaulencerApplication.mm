@@ -1,3 +1,5 @@
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 #import "RootViewController.h"
 
 @interface MaulencerApplication: UIApplication <UIApplicationDelegate> {
