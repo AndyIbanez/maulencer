@@ -1,0 +1,9 @@
+Package: com.AndyIbanez.Maulencer
+Name: Maulencer
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Andy Ibanez
+Author: Andy Ibanez
+Section: Utilities
