@@ -1,9 +1,8 @@
 Package: com.AndyIbanez.Maulencer
 Name: Maulencer
-Depends: 
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: An app icon on SpringBoard to put your phone on silence mode. Handy if your ringer toggle is broken. (If you install this with Sideswitch toggles installed, this will toggled whatever action you have assigned to it. I made this as a quick favor for a friend, but feel free to use it.
+Description: An app icon on SpringBoard to put your phone on silence mode. Handy if your ringer toggle is broken. If you install this with Sideswitch toggles installed, this will toggle whatever action you have assigned to it. I made this as a quick favor for a friend, but feel free to use it.
 Maintainer: Andy Ibanez
 Author: Andy Ibanez
 Section: Utilities
